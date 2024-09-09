@@ -1,34 +1,13 @@
 apiVersion: backstage.io/v1beta3
 kind: API
 metadata:
-  name: my-api
-  description: A simple API
+  name: test-api
 spec:
   type: openapi
   lifecycle: production
-  owner: core-banking-team
+  owner: test-team
   definition:
     openapi: 3.0.0
     info:
-      title: My API
+      title: Test API
       version: 1.0.0
-    paths:
-      /accounts:
-        get:
-          summary: Retrieve all accounts
-          responses:
-            '200':
-              description: A list of accounts
-              content:
-                application/json:
-                  schema:
-                    type: array
-                    items:
-                      type: object
-                      properties:
-                        id:
-                          type: string
-                        balance:
-                          type: number
-                        owner:
-                          type: string
