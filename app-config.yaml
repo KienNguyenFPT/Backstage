@@ -6,6 +6,7 @@ organization:
   name: My Company
 
 backend:
+  
   # Used for enabling authentication, secret is shared by all backend plugins
   # See https://backstage.io/docs/auth/service-to-service-auth for
   # information on the format
@@ -80,7 +81,9 @@ catalog:
   locations:
     # Local example data, file locations are relative to the backend process, typically `packages/backend`
     - type: file
-      target: ../../examples/entities.yaml
+      target: ./catalog-info.yaml
+   #   target: ../../examples/entities.yaml
+    
     
 
     # Local example template
