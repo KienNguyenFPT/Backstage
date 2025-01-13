@@ -22,6 +22,48 @@ yarn dev
 
 ![image](https://github.com/user-attachments/assets/04a0ac04-fe61-4300-acb2-d5b779f3e5a7)
 
+# [Backstage with K8s](https://backstage.io)
+![image](https://github.com/user-attachments/assets/467dfc71-9db9-4674-802d-2a1a5f215ef4)
+
+![image](https://github.com/user-attachments/assets/f3e790b9-50a9-4274-8fbc-9e2012a631ce)
+
+![image](https://github.com/user-attachments/assets/213320a7-e972-42bf-a869-05f1f3e86fc4)
+
+![image](https://github.com/user-attachments/assets/35cdad3f-a7fa-40f8-be63-4b3fab24ed24)
+
+![image](https://github.com/user-attachments/assets/0235e453-1b30-4c6a-a03d-497152dbafe6)
+
+![image](https://github.com/user-attachments/assets/4d16d23a-cc31-4be5-b384-386625dfd8d2)
+
+![image](https://github.com/user-attachments/assets/aa151157-872c-44d2-a453-25abd0089f1e)
+
+![image](https://github.com/user-attachments/assets/7eab35fe-1028-49bd-baa1-5dc16d016df0)
+
+![image](https://github.com/user-attachments/assets/8e2b1264-f781-49ed-b8d4-e87db0d2e4ca)
+
+![image](https://github.com/user-attachments/assets/6cf738ba-7986-49a3-a4cd-413da46daefb)
+
+![image](https://github.com/user-attachments/assets/35daa7dc-552f-4de9-b547-49db16258054)
+
+![image](https://github.com/user-attachments/assets/40221a39-160c-427c-b2f0-1d34570607c7)
+
+![image](https://github.com/user-attachments/assets/0f91430a-87f2-41b2-8668-25f53bdc2f07)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
