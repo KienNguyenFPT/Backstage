@@ -49,6 +49,26 @@ yarn dev
 
 ![image](https://github.com/user-attachments/assets/0f91430a-87f2-41b2-8668-25f53bdc2f07)
 
+# [Database - Authentication - Authorization](https://backstage.io)
+
+![image](https://github.com/user-attachments/assets/a12ea018-0bf7-4ef3-a1b7-89c9e76f7288)
+
+![image](https://github.com/user-attachments/assets/1a08fdd0-0c26-4856-9953-e00fe683dc61)
+
+![image](https://github.com/user-attachments/assets/2a55a711-a103-4ddb-8bc0-d12aa12393a8)
+
+![image](https://github.com/user-attachments/assets/75e037ec-63c8-453d-a8a0-c87aac9fa472)
+
+![image](https://github.com/user-attachments/assets/98083065-9dab-4213-b24a-88f9d2cec252)
+
+![image](https://github.com/user-attachments/assets/523d8e08-583b-4694-91ef-2f8a4d36ba77)
+
+
+
+
+
+
+
 
 
 
